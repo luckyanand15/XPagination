@@ -1,0 +1,19 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.wrapper button{
+    background-color: #009879;
+    color: #fff;
+    border: 0;
+    padding: 8px 20px;
+}
+
+.pageNumber{
+    background-color: #009879;
+    padding: 12px 14px;
+    color: #fff;
+    border-radius: 2px;
+}
